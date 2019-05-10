@@ -2,7 +2,7 @@
 
 
 
-#### [1. SizeUp]([http://www.irradiatedsoftware.com/sizeup/](http://www.irradiatedsoftware.com/sizeup/)) 
+#### [1. SizeUp](http://www.irradiatedsoftware.com/sizeup/)
 
 > SizeUp allows you to quickly resize and position your windows with keyboard shortcuts or a handy menu bar icon.
 
